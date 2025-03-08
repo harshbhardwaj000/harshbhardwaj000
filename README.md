@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **AuraLytics**
 
-- 🌱 I’m currently learning **DBMS & JAVA**
+- 🌱 I’m currently learning **DSA & OS**
 
-- 👨‍💻 All of my projects are available at [itzbhardwajnow.xyz](itzbhardwajnow.xyz)
+- 👨‍💻 All of my projects are available at [itzbhardwajnow.xyz](https://itzbhardwajnow.xyz/)
 
-- 💬 Ask me about **Python , Java , C , DBMS**
+- 💬 Ask me about **Python , Java  , DBMS**
 
 - 📫 How to reach me **harsh639bhardwaj@gmail.com**
 
